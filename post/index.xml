@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Clark Cui&#39;s Web Site</title>
+    <title>Posts on C &amp; C’s </title>
     <link>http://clark-2015.github.io/post/</link>
-    <description>Recent content in Posts on Clark Cui&#39;s Web Site</description>
+    <description>Recent content in Posts on C &amp; C’s </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 22:31:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2018 22:22:01 +0800</lastBuildDate>
     
 	<atom:link href="http://clark-2015.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
-      <link>http://clark-2015.github.io/post/first/</link>
-      <pubDate>Sun, 11 Feb 2018 22:31:31 +0800</pubDate>
+      <title>Hugo建站日记</title>
+      <link>http://clark-2015.github.io/post/hugo%E5%BB%BA%E7%AB%99%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Sun, 11 Feb 2018 22:22:01 +0800</pubDate>
       
-      <guid>http://clark-2015.github.io/post/first/</guid>
-      <description> Hello Hugo  aaa bbb ccc  </description>
+      <guid>http://clark-2015.github.io/post/hugo%E5%BB%BA%E7%AB%99%E6%97%A5%E8%AE%B0/</guid>
+      <description> HUGO建站日记： 20180212： 1. 基于Hugo + Github pages + 购买域名(clarkcui.top)完成初步建站。 2. 创建 &amp;quot;Hugo建站日记&amp;quot; 列表 进行记录hugo建站历史。  </description>
     </item>
     
   </channel>

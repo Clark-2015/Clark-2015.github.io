@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://clark-2015.github.io/post/first/</loc>
-    <lastmod>2018-02-11T22:31:31+08:00</lastmod>
+    <loc>http://clark-2015.github.io/about/</loc>
+    <lastmod>2018-02-11T22:22:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://clark-2015.github.io/about/</loc>
+    <loc>http://clark-2015.github.io/hugowebhistory/hugo%E5%BB%BA%E7%AB%99%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2018-02-11T22:22:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clark-2015.github.io/</loc>
+    <lastmod>2018-02-11T22:22:01+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -18,14 +24,8 @@
   </url>
   
   <url>
-    <loc>http://clark-2015.github.io/</loc>
-    <lastmod>2018-02-11T22:31:31+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://clark-2015.github.io/post/</loc>
-    <lastmod>2018-02-11T22:31:31+08:00</lastmod>
+    <loc>http://clark-2015.github.io/hugowebhistory/</loc>
+    <lastmod>2018-02-11T22:22:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   

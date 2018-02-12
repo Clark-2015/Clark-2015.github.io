@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clark Cui&#39;s Web Site</title>
+    <link>http://clark-2015.github.io/</link>
+    <description>Recent content on Clark Cui&#39;s Web Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 22:31:31 +0800</lastBuildDate>
+    
+	<atom:link href="http://clark-2015.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://clark-2015.github.io/post/first/</link>
+      <pubDate>Sun, 11 Feb 2018 22:31:31 +0800</pubDate>
+      
+      <guid>http://clark-2015.github.io/post/first/</guid>
+      <description> Hello Hugo  aaa bbb ccc  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://clark-2015.github.io/about/</link>
+      <pubDate>Sun, 11 Feb 2018 22:22:01 +0800</pubDate>
+      
+      <guid>http://clark-2015.github.io/about/</guid>
+      <description>正文内容</description>
+    </item>
+    
+  </channel>
+</rss>

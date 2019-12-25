@@ -41,7 +41,7 @@
       
     </ul>
 
-    <p>&copy; 2018. All rights reserved. </p>
+    <p>&copy; 2019. All rights reserved. </p>
   </div>
 </div>
 
@@ -61,6 +61,24 @@
 
 </div>
 
+
+
+
+<div id="git-comments"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+    id: 'Hugo建站日记',  
+    owner: 'Clark-2015',
+    repo: 'Clark-2015.github.io',
+    oauth: {
+      client_id: '00a30f9ac97e5129fd28',
+      client_secret: '7db06250bec9ae66b1aea7a733cd38f8c700dcca',
+    }
+  })
+  gitment.render('git-comments')
+</script>
 
     </div>
 

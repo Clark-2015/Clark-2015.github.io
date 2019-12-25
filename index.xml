@@ -6,10 +6,19 @@
     <description>Recent content on C &amp; C’s </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 22:22:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2019 23:29:50 +0100</lastBuildDate>
     
 	<atom:link href="http://clark-2015.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MerryChristmas</title>
+      <link>http://clark-2015.github.io/post/merrychristmas/</link>
+      <pubDate>Wed, 25 Dec 2019 23:29:50 +0100</pubDate>
+      
+      <guid>http://clark-2015.github.io/post/merrychristmas/</guid>
+      <description>圣诞树 01  </description>
+    </item>
     
     <item>
       <title>ABOUT &#34;C &amp; C’s&#34; Web Site</title>

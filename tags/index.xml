@@ -6,9 +6,37 @@
     <description>Recent content in Tags on C &amp; C’s </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 22:22:01 +0800</lastBuildDate>
     
 	<atom:link href="http://clark-2015.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Github</title>
+      <link>http://clark-2015.github.io/tags/github/</link>
+      <pubDate>Sun, 11 Feb 2018 22:22:01 +0800</pubDate>
+      
+      <guid>http://clark-2015.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gitment</title>
+      <link>http://clark-2015.github.io/tags/gitment/</link>
+      <pubDate>Sun, 11 Feb 2018 22:22:01 +0800</pubDate>
+      
+      <guid>http://clark-2015.github.io/tags/gitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://clark-2015.github.io/tags/hugo/</link>
+      <pubDate>Sun, 11 Feb 2018 22:22:01 +0800</pubDate>
+      
+      <guid>http://clark-2015.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

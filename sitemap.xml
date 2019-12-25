@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://clark-2015.github.io/post/merrychristmas/</loc>
+    <lastmod>2019-12-25T23:29:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://clark-2015.github.io/about/</loc>
     <lastmod>2018-02-11T22:22:01+08:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>http://clark-2015.github.io/</loc>
-    <lastmod>2018-02-11T22:22:01+08:00</lastmod>
+    <lastmod>2019-12-25T23:29:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -24,13 +29,32 @@
   </url>
   
   <url>
-    <loc>http://clark-2015.github.io/post/</loc>
+    <loc>http://clark-2015.github.io/tags/github/</loc>
     <lastmod>2018-02-11T22:22:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://clark-2015.github.io/tags/gitment/</loc>
+    <lastmod>2018-02-11T22:22:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://clark-2015.github.io/tags/hugo/</loc>
+    <lastmod>2018-02-11T22:22:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://clark-2015.github.io/post/</loc>
+    <lastmod>2019-12-25T23:29:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://clark-2015.github.io/tags/</loc>
+    <lastmod>2018-02-11T22:22:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
